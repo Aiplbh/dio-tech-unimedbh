@@ -1,0 +1,36 @@
+Bootcamp Unimed-BH Ciência de Dados
+===================================
+
+O bootcamp Unimed-BH Ciência de Dados é para profissionais que já atuam com ciência de dados ou estão começando na carreira. Durante o programa, você vai ter experiências educacionais com Python, banco de dados relacional e não relacional, além de uma imersão Cloud Computer e Machine Learning. Após gerar a certificação de conclusão do bootcamp, a Unimed-BH pretende recrutar talentos para integrar seus times de tecnologia.
+
+Carga horária: 126 horas
+
+
+Portifolio do bootcamp
+
+
+~/dio-tech-unimedbh
+                  |
+                  +-- project-chalenge
+
+
+
+Criação de um Curriculo Online no GitHub
+========================================
+
+Seção About
+===========
+
+Argemiro tem formação em Ciência da Computação embora sua experiência profissional e expertise seja em Sistemas de Telecomunicações onde atuou por mais de 35 anos. Sua última ocupação foi como Instrutor de Tecnologia com 14 anos de experiencia no ensino técnico profissionalizante.
+
+Atualmente dedica-se a atualização de suas competências acadêmicas tendo participado nos últimos 8 meses de diversos bootcamps como os de Java Spring Boot,  .NET, Flutter,  FullStack Developer, Muticloud Professional (AWS, Azure and GCP) além de treinamentos formais em IoT com Eletrônica Embarcada e Redes de computadores (CCNA R&S).
+
+
+Argemiro has a degree in Computer Science although his professional experience and expertise is in Telecommunications Systems where he worked for over 35 years. His last occupation was as a Technology Instructor with 14 years of experience in vocational technical education.
+
+He is currently dedicated to updating his academic skills, having participated in the last 8 months in several bootcamps such as Java Spring Boot, .NET, Flutter, FullStack Developer, Muticloud Professional (AWS, Azure and GCP) as well as formal training in IoT with Embedded Electronics and Computer Networks (CCNA R&S).
+
+
+Seção Work Experience
+=====================
+
