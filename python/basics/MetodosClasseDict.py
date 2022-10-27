@@ -141,7 +141,7 @@ print()
 
 
 # Metodo get()
-# Esse método permite obter os valores a partir de uma chava fornecida.
+# Esse método permite obter os valores a partir de uma chave fornecida.
 # Sem usar get o Python pode retornar uma excessão 'Key error' caso a chave não exista
 # Com get() o retorno será 'none' ou um dicionario vazio caso isso seja especificado
 
